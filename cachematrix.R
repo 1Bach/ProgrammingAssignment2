@@ -1,7 +1,8 @@
 ## Function will return the inverse of the matrix. If inverse has already been computated 
 ## earlier and stored (cache) then it will skip the computation and return the stored 
 ## value.
-## If not it will compute the inverse and store the value in the cache using setinverse ##function
+## If not it will compute the inverse and store the value in the cache using setinverse 
+##function
 
    
 ## This function creates a special matrix which
